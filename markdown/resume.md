@@ -1,100 +1,52 @@
-Johnny Coder
+어혜민
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  안녕하세요. 1년차 백엔드 개발자 어혜민입니다.
+>  지금보다 나은 개발자가 되고 싶어 항상 고민하고 있습니다. 앞으로도 서비스에 대한 고민이든, 코드에 대한 고민이든, 고민을 통해 계속해서 성장하는 개발자가 되겠습니다.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2015.03 ~ 2020.08
+:   **소프트웨어학부 컴퓨터과학전공**; 숙명여자대학교
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**비즈플레이 경비지출 컨텐츠 개발 및 운영**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
+PPP개발센터 (2020.06 ~ 현재)
 links:
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
+* 중견기업 이상 경비지출관리 솔루션 맞춤개발 진행
+* 서비스 유지 운영 및 오류 대응
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* 결재 대기건수 PUSH 알림배치 개발
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+* 실시간 카드수신내역 처리 배치 로직 개선
+  * 가승인내역, 취소내역, 실제 승인내역 수신 시, 취소내역 미처리 건 발생
+  * 동일 승인번호의 취소내역도 처리되도록 변경
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* 모바일 OTP 처리 개선
+  * 접속 시 OTP 인증 프로세스를 최초 로그인시에만 OTP 인증 하도록 변경
+  * 앱 최초 접속여부 구분값 미존재로, 자동로그인 설정여부로 판단
+  * OTP 채번 후 검증 로직 변경으로, 고객사 맞춤 API를 공통으로 사용하도록 개선
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Personal Experience & Projects
 ----------------------------------------
 
-* Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Skills
+----------------------------------------
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <eohyemin@gmail.com> 
+> <https://github.com/eohyemin>
